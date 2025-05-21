@@ -924,6 +924,10 @@ bilinovel.com##+js(aeld, DOMContentLoaded, _0x)
 bilinovel.com##+js(noeval-if, style.display)
 linovelib.com##+js(noeval-if, /adb/i)
 
+! https://github.com/uBlockOrigin/uAssets/issues/28436#issuecomment-2898063180
+bilinovel.com##+js(acs, checkAndHandleAdBlock)
+linovelib.com##+js(acs, checkAndHandleAdBlock)
+
 ! https://github.com/uBlockOrigin/uAssets/issues/27276
 enryucomics.com##+js(noeval-if, adsbygoogle)
 .gif$domain=enryucomics.com,image
